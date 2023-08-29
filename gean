@@ -1,0 +1,98 @@
+// this is a js file
+// Gabriel Barros
+
+
+//Exercicio 1
+
+//1
+
+
+/*
+
+let array
+console.log('a. ', array)
+array = null
+console.log('b. ', array)
+array = [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+console.log('c. ', array.length)
+let i = 0
+console.log('d. ', array[i])
+array[i+1] = 19
+console.log('e. ', array)
+const valor = array[i+6]
+console.log('f. ', valor)
+
+
+//A= undefined
+//B= nu11
+//C= 11
+//D= 3
+//E= Array(11)
+//F= 9
+
+*/
+
+
+
+/*
+
+//Exercicio 1
+
+
+const frase = prompt("Digite uma frase");
+console.log(frase.toUpperCase().replaceAll("A", "I"), frase.length);
+console.log("Subi num ônibus em Marrocos");
+
+
+Resposta = SUBI NUM ONIBUS EM MARROCOS 27
+
+*/
+
+
+/*
+//Exercicio 2
+
+
+let nomeDoUsuario = prompt("Qual meu nome?");
+let emailDoUsuario = prompt("Qual meu e-mail?");
+console.log("O e-mail " + emailDoUsuario  + "foi cadastrado com sucesso " + ' Seja bem-vinda ' , nomeDoUsuario);
+
+*/
+
+/*
+
+let comida = ["massa" , "pizza" , "frango" , "arroz" , "feijao"];
+console.log(comida);
+console.log("Essas são as minhas comidas preferidas");
+console.log("comida"[1]);
+console.log("comida"[2]);
+console.log("comida"[3]);
+console.log("comida"[4]);
+console.log("comida"[5]);
+
+*/
+
+//Exercicio 3
+
+/*
+
+let listaDeTarefa = [];
+listaDeTarefa = [prompt("1 tarefa") , prompt("2 tarefa") , prompt("3 tarefa")];
+console.log(listaDeTarefa);
+let n = prompt("digite o indice de uma tarefa 1 , 2 ou 3");
+console.log(listaDeTarefa[n]);
+listaDeTarefa.splice(n,1);
+console.log(listaDeTarefa);
+
+*/
+
+//Desafios
+/*
+
+let fruta = ["Banana", "Morango", "Abacaxi", "Laranja", "Ameixa"];
+console.log(fruta);
+let f = prompt("digite o indice da palavra abacaxi");
+console.log(fruta);
+console.log(fruta.indexOf("Abacaxi"));
+
+*/
